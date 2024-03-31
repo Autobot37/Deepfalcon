@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository contains implementations of various machine learning models and techniques applied to different tasks in high-energy physics (HEP). Below is a summary of each approach used in this project:
+Below is a summary of each Task:
 
 ## 1. Variational Autoencoder with KL Divergence Loss
    - Utilized a variational autoencoder (VAE) architecture with KL divergence loss to reconstruct data.
